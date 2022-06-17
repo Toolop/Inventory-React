@@ -1,0 +1,17 @@
+#persen{
+    width: 60px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.text-persen{
+    font-size: 15px;
+}
+#kecil{
+    width: 10px;
+    height: 10px;
+}
