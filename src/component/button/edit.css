@@ -1,0 +1,23 @@
+#edit{
+    background-color: #F1F5FB;
+    text-decoration: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    cursor:pointer;
+}
+.icon-edit{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.text-button{
+    font-size: 14px;;
+}
+#edit:hover{
+    background-color: #E3E6FD;
+}
